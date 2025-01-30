@@ -1,5 +1,3 @@
-p {text-decoration-line: underline;}
-
 
 // <uniquifier>: Use a unique and descriptive class name
 // <weight>: Use a value from 100 to 900
@@ -10,3 +8,21 @@ p {text-decoration-line: underline;}
   font-weight: <weight>;
   font-style: normal;
 }
+
+h1 {
+  display: block;
+  font-size: 2em;
+  font-weight:bold;
+  margin-block: .67em;
+}
+
+.Price {
+  text-size-adjust: 20;
+  font-size: x-large;
+  font-weight: bolder;
+}
+
+.link {
+  color: #1c92c0;
+}
+
