@@ -9,7 +9,7 @@
   font-style: normal;
 }
 
-h1 {
+.h1 {
   display: block;
   font-size: 2em;
   font-weight:bold;
@@ -26,3 +26,22 @@ h1 {
   color: #1c92c0;
 }
 
+.img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 3%;
+}
+
+.search {
+  font-weight: bold;
+  text-align: center;
+}
+
+.sub {
+  font-weight: bold;
+}
+
+.large {
+  font-weight: bold;
+  font-size: larger;
+}
